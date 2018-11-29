@@ -1,0 +1,7 @@
+I have created three project 
+1. BioCompGADataSet1NoWildCards for solving data1 with no wildcards.
+2. BioCompGADataSet1WithWildCards for solving data1 with wildcards enabled.
+3. BioCompGADataSet2 for solving data2
+The generations variable is in the simGinAl class and the population size,
+mutation and number of rules is in the GeneticAlgorithm class
+thank you!!!!
